@@ -38,7 +38,7 @@ The feature names as described in `features_info.txt` were added as headers to t
 The `X_test` and `X_train` data was then limited to only measurements on the mean and standard deviation as `X_test_mean_std_only` and `X_train_mean_std_only`.
 
 
-An additional column with activity names was added to the `y_test` and `y_train` data. Column headers of "Activity_ID" and Activity_Name" were added.
+An additional column with activity names was added to the `y_test` and `y_train` data. Column headers of "Activity_ID" and "Activity_Name" were added.
 
 The `subject_test` and `subject_train` data was given a column header of "Subject_ID".
 
