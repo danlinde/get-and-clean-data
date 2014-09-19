@@ -39,7 +39,7 @@ install.packages("data.table")
 ### Output
 
 
-The result of running the run_analysis.R script is a new file tidy_data.txt. To run the script enter the following command in your console:
+The result of running the run_analysis.R script is a new file `tidy.txt`. To run the script enter the following command in your console:
 
 
 ```
